@@ -3,11 +3,6 @@
   "version": "0.1.0",
   "homepage": "https://uk2023.github.io/Noise-Level/",
   "private": true,
-
-  
-
-
-
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
