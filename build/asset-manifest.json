@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c4f84eb2.css",
-    "main.js": "/static/js/main.2e8e5f97.js",
-    "static/js/787.f5375317.chunk.js": "/static/js/787.f5375317.chunk.js",
-    "index.html": "/index.html",
-    "main.c4f84eb2.css.map": "/static/css/main.c4f84eb2.css.map",
-    "main.2e8e5f97.js.map": "/static/js/main.2e8e5f97.js.map",
-    "787.f5375317.chunk.js.map": "/static/js/787.f5375317.chunk.js.map"
+    "main.css": "/Noise-Level/static/css/main.c4f84eb2.css",
+    "main.js": "/Noise-Level/static/js/main.b461ce62.js",
+    "static/js/787.f5375317.chunk.js": "/Noise-Level/static/js/787.f5375317.chunk.js",
+    "index.html": "/Noise-Level/index.html",
+    "main.c4f84eb2.css.map": "/Noise-Level/static/css/main.c4f84eb2.css.map",
+    "main.b461ce62.js.map": "/Noise-Level/static/js/main.b461ce62.js.map",
+    "787.f5375317.chunk.js.map": "/Noise-Level/static/js/787.f5375317.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4f84eb2.css",
-    "static/js/main.2e8e5f97.js"
+    "static/js/main.b461ce62.js"
   ]
 }
