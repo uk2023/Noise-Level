@@ -134,8 +134,7 @@
   width: 100%;
   display: flex;
   justify-content: center;
-  position: static; /* Change to fixed */
-  bottom: 0; /* Align to the bottom */
+  position: fixed;
 }
 
 .App-footer p {
