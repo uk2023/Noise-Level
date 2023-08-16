@@ -124,10 +124,10 @@ function App() {
         </div>
         <ul>
           <li>
-          <a href="/Noise-Level">
+          <a href="/home">
             <FontAwesomeIcon icon={faHouse} className="home-icon" />
             Home
-          </a>
+          </li>
           </li>
           <li>
             <Link to="/contact">
