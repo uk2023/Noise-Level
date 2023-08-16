@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Noise-Level/static/css/main.17a054c2.css",
-    "main.js": "/Noise-Level/static/js/main.b461ce62.js",
+    "main.css": "/Noise-Level/static/css/main.396f76ca.css",
+    "main.js": "/Noise-Level/static/js/main.27337f56.js",
     "static/js/787.f5375317.chunk.js": "/Noise-Level/static/js/787.f5375317.chunk.js",
     "index.html": "/Noise-Level/index.html",
-    "main.17a054c2.css.map": "/Noise-Level/static/css/main.17a054c2.css.map",
-    "main.b461ce62.js.map": "/Noise-Level/static/js/main.b461ce62.js.map",
+    "main.396f76ca.css.map": "/Noise-Level/static/css/main.396f76ca.css.map",
+    "main.27337f56.js.map": "/Noise-Level/static/js/main.27337f56.js.map",
     "787.f5375317.chunk.js.map": "/Noise-Level/static/js/787.f5375317.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17a054c2.css",
-    "static/js/main.b461ce62.js"
+    "static/css/main.396f76ca.css",
+    "static/js/main.27337f56.js"
   ]
 }
