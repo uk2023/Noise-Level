@@ -124,7 +124,7 @@ function App() {
         </div>
         <ul>
           <li>
-          <a href="/">
+          <a href="/Noise-Level">
             <FontAwesomeIcon icon={faHouse} className="home-icon" />
             Home
           </a>
