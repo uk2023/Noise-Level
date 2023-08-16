@@ -39,13 +39,17 @@
   border-style: groove;
 }
 
+.Navbar .contact-icon{
+  margin-right: 5px;
+}
+
 .Navbar .home-icon {
   margin-right: 5px;
   margin-bottom: 2px;
 }
-.Navbar .log-ico {
+.Navbar .login-icon {
   margin-right: 5px;
-  margin-bottom: 2px;
+  margin-bottom: 1.5px;
 }
 .Navbar .set-icon {
   margin-right: 5px;
@@ -193,3 +197,104 @@ button:hover {
 }
 
 /* ... (remaining styles) */
+
+.ContactUs {
+  padding: 20px;
+}
+
+.Hero {
+  background-color: #4d7bfa;
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+  border-style: dashed;
+}
+
+.ContactDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #030e19;
+}
+
+.ContactItem {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.ContactItem p1 {
+  margin-right: 15px;
+}
+
+.icon {
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+/* Style for the overlay background */
+.Overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Style for the modal content */
+.Modal {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+  max-width: 80%;
+  max-height: 80%;
+  overflow: auto;
+  padding: 20px;
+}
+
+/* Style for the modal title */
+.Modal h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+/* Style for the slider container */
+.SliderContainer {
+  margin-top: 20px;
+}
+
+/* Style for the slider label */
+.SliderContainer label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+/* Style for the slider input */
+.SliderContainer input[type="number"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Style for the close button */
+.Modal button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Style for the close button on hover */
+.Modal button:hover {
+  background-color: #0056b3;
+}
